@@ -11,11 +11,11 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.5.9",
-    "@astrojs/react": "^3.1.0",
+    "@astrojs/react": "^4.0.0",
     "@types/react": "^19.0.0",
     "@types/cloudflare-turnstile": "^0.1.4",
     "@types/react-dom": "^19.0.0",
-    "astro": "^4.5.9",
+    "astro": "^5.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-turnstile": "^1.1.3",
